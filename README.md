@@ -1,5 +1,14 @@
 # repojis
+
 Biased emoji meanings in source-code repositories
 
-- :arrow_up: updated dependencies
-- :secret: secret
+> THIS IS A DRAFT
+
+
+### Commit messgaes
+
+- :arrow_up: `:arrow_up:` updated dependencies
+
+### Repositories
+
+- :secret: ` :secret:` secret
