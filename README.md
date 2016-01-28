@@ -8,6 +8,7 @@ Biased emoji meanings in source-code repositories
 ### Commit messgaes
 
 - :arrow_up: `:arrow_up:` updated dependencies
+- :memo: `:memo:` update documenation
 
 ### Repositories
 
