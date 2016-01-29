@@ -12,4 +12,5 @@ Biased emoji meanings in source-code repositories
 
 ### Repositories
 
+- :package: `:package:` reference by a package manager (copmoser, npm, ...)
 - :secret: ` :secret:` secret
