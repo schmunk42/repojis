@@ -14,7 +14,7 @@ Biased emoji meanings in source-code repositories
 
 - :package: `:package:` reference by a package manager (copmoser, npm, ...)
 - :secret: `:secret:` secret
-- :derelict_house: `:derelict_house:` abandoned package, no longer maintained
+- :zzz: `:zzz:` abandoned package, no longer maintained
 
 
 ## Links
