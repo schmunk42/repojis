@@ -9,6 +9,7 @@ Biased emoji meanings in source-code repositories
 
 - :arrow_up: `:arrow_up:` updated dependencies
 - :memo: `:memo:` updated documenation
+- :gear: `:gear:` generated code
 
 ### Repositories
 
