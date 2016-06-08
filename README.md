@@ -32,8 +32,8 @@ Biased emoji meanings in source-code repositories
 - :construction_worker: `:construction_worker:` development
 - :white_check_mark: `:white_check_mark:` testing
 - :factory: `:factory:` building
-- :small_airplane: `:airplane:` staging
-- :airplane: `:100:` production
+- :airplane: `:airplane:` staging
+- :100: `:100:` production
 - :crystal_ball: `:crystal_ball:` service discovery
 - :bar_chart: `:bar_chart:` monitoring
 
