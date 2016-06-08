@@ -27,7 +27,7 @@ Biased emoji meanings in source-code repositories
 - :black_square_button: `:black_square_button:` mirror
 - :credit_card: `:credit_card:` commercial/non-free
 
-Areas 
+### Areas 
 
 - :construction_worker: `:construction_worker:` development
 - :white_check_mark: `:white_check_mark:` testing
