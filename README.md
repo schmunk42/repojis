@@ -54,3 +54,7 @@ Biased emoji meanings for developers
 ## Links
 
 - Emoji search [emoji.muan.co](http://emoji.muan.co)
+
+---
+
+#### ![dmstr logo](http://t.phundament.com/dmstr-16-cropped.png) Built by [dmstr](http://diemeisterei.de)
