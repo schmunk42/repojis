@@ -32,6 +32,7 @@ Biased emoji meanings in source-code repositories
 - ::iphone: `:iphone:` mobile application
 - :black_square_button: `:black_square_button:` mirror
 - :credit_card: `:credit_card:` commercial/non-free
+- :wrench: `:wrench:` maintenance
 
 ### Areas 
 
