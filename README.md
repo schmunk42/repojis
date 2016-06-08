@@ -44,6 +44,11 @@ Biased emoji meanings in source-code repositories
 - :crystal_ball: `:crystal_ball:` service discovery
 - :bar_chart: `:bar_chart:` monitoring
 
+## Miscellaneous
+
+- :metal: bare-metal
+- :cyclone: virtual
+
 ## Links
 
 - Emoji search [emoji.muan.co](http://emoji.muan.co)
