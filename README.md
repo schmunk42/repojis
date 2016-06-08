@@ -16,6 +16,8 @@ Biased emoji meanings in source-code repositories
 - :package: `:package:` reference by a package manager (copmoser, npm, ...)
 - :secret: `:secret:` secret
 - :zzz: `:zzz:` abandoned package, no longer maintained
+- :globe_with_meridians: `:globe_with_meridians:` web application
+- :desktop_computer: `:desktop_computer:` desktop application
 
 
 ## Links
