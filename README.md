@@ -44,7 +44,7 @@ Biased emoji meanings for developers
 - :crystal_ball: `:crystal_ball:` service discovery
 - :bar_chart: `:bar_chart:` monitoring
 
-## Miscellaneous
+### Miscellaneous
 
 - :metal: bare-metal
 - :cyclone: virtual
