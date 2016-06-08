@@ -14,6 +14,7 @@ Biased emoji meanings in source-code repositories
 ### Repositories
 
 - :package: `:package:` reference by a package manager (copmoser, npm, ...)
+- :whale: `:whale:` DockerHub image available
 - :secret: `:secret:` secret
 - :zzz: `:zzz:` abandoned package, no longer maintained
 - :globe_with_meridians: `:globe_with_meridians:` web application
