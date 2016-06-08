@@ -19,6 +19,7 @@ Biased emoji meanings in source-code repositories
 
 - :package: `:package:` reference by a package manager (copmoser, npm, ...)
 - :whale: `:whale:` DockerHub image available
+- :bento: `:bento:` Docker Compose configuration(s)
 - :green_book: `:green_book:` public documentation
 - :orange_book: `:orange_book:` internal documentation
 - :secret: `:secret:` secret
