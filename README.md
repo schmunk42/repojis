@@ -13,7 +13,6 @@ Biased emoji meanings in source-code repositories
 - :arrow_up: `:arrow_up:` updated dependencies
 - :memo: `:memo:` updated documenation
 - :gear: `:gear:` generated code
-- :factory: `:factory:` "build trigger"
 
 ### Repositories
 
@@ -27,8 +26,16 @@ Biased emoji meanings in source-code repositories
 - :desktop_computer: `:desktop_computer:` desktop application
 - :black_square_button: `:black_square_button:` mirror
 - :credit_card: `:credit_card:` commercial/non-free
-- :bar_chart: monitoring
 
+Areas 
+
+- :construction_worker: `:construction_worker:` development
+- :white_check_mark: `:white_check_mark:` testing
+- :factory: `:factory:` building
+- :small_airplane: `:small_airplane:` staging
+- :airplane: `:airplane:` production
+- :crystal_ball: `:crystal_ball:` service discovery
+- :bar_chart: `:bar_chart:` monitoring
 
 ## Links
 
