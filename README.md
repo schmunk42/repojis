@@ -4,6 +4,9 @@ Biased emoji meanings in source-code repositories
 
 > THIS IS A DRAFT
 
+### General
+
+- :construction: `:construction:` under construction
 
 ### Commit messgaes
 
