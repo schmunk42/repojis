@@ -1,8 +1,8 @@
 # repojis
 
-Biased emoji meanings in source-code repositories
+Biased emoji meanings for developers
 
-> THIS IS A DRAFT
+> :bangbang: **THIS IS CUURENTLY A DRAFT**
 
 ### General
 
