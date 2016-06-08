@@ -27,6 +27,7 @@ Biased emoji meanings in source-code repositories
 - :desktop_computer: `:desktop_computer:` desktop application
 - :black_square_button: `:black_square_button:` mirror
 - :credit_card: `:credit_card:` commercial/non-free
+- :bar_chart: monitoring
 
 
 ## Links
