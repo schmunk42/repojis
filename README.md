@@ -7,7 +7,10 @@ Biased emoji meanings in source-code repositories
 ### General
 
 - :construction: `:construction:` under construction
-- :name_badge: `::name_badge:` namespace/vendor
+- :name_badge: `:name_badge:` namespace/vendor
+- :warning: `:warning:` warning
+- :light_bulb: `:light_bulb:` info/heads up
+- :bangbang: `:bangbang:` very important
 
 ### Commit messgaes
 
