@@ -19,6 +19,7 @@ Biased emoji meanings in source-code repositories
 - :globe_with_meridians: `:globe_with_meridians:` web application
 - :desktop_computer: `:desktop_computer:` desktop application
 - :black_square_button: `:black_square_button:` mirror
+- :credit_card: `:credit_card:` commercial/non-free
 
 
 ## Links
