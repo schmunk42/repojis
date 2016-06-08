@@ -2,7 +2,7 @@
 
 Biased emoji meanings for developers
 
-> :bangbang: **THIS IS CURENTLY A DRAFT**
+> :bangbang: **THIS IS CURRENTLY A DRAFT**
 
 ### General
 
