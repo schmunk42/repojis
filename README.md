@@ -7,6 +7,7 @@ Biased emoji meanings in source-code repositories
 ### General
 
 - :construction: `:construction:` under construction
+- :name_badge: `::name_badge:` namespace/vendor
 
 ### Commit messgaes
 
