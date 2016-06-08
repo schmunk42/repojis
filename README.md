@@ -48,6 +48,8 @@ Biased emoji meanings in source-code repositories
 
 - :metal: bare-metal
 - :cyclone: virtual
+- :house: `:house:` in-house
+- :cloud: `:cloud:` cloud
 
 ## Links
 
