@@ -18,6 +18,7 @@ Biased emoji meanings in source-code repositories
 - :zzz: `:zzz:` abandoned package, no longer maintained
 - :globe_with_meridians: `:globe_with_meridians:` web application
 - :desktop_computer: `:desktop_computer:` desktop application
+- :black_square_button: `:black_square_button:` mirror
 
 
 ## Links
