@@ -46,8 +46,8 @@ Biased emoji meanings for developers
 
 ### Miscellaneous
 
-- :metal: bare-metal
-- :cyclone: virtual
+- :metal: `:metal:` bare-metal
+- :cyclone: `:cyclone:` virtual
 - :house: `:house:` in-house
 - :cloud: `:cloud:` cloud
 
