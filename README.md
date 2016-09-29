@@ -21,8 +21,12 @@ Biased emoji meanings for developers
 ### Repositories
 
 - :package: `:package:` reference by a package manager (copmoser, npm, ...)
+- :octocat: `:octocat:` GitHub repository
+- :wolf: `:wolf:` GitLab repository
 - :whale: `:whale:` DockerHub image available
 - :bento: `:bento:` Docker Compose configuration(s)
+- :dvd: `:dvd:` Docker image
+- :cd: `:cd:` Docker base image
 - :green_book: `:green_book:` public documentation
 - :orange_book: `:orange_book:` internal documentation
 - :secret: `:secret:` secret
