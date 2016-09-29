@@ -41,7 +41,7 @@ Biased emoji meanings for developers
 ### Areas 
 
 - :construction_worker: `:construction_worker:` development
-- :white_check_mark: `:white_check_mark:` testing
+- :hammer: `:hammer:` testing
 - :factory: `:factory:` building
 - :airplane: `:airplane:` staging
 - :100: `:100:` production
@@ -50,6 +50,8 @@ Biased emoji meanings for developers
 
 ### Miscellaneous
 
+- :ok: `:ok:` yes
+- :x: `:x:` no
 - :metal: `:metal:` bare-metal
 - :cyclone: `:cyclone:` virtual
 - :house: `:house:` in-house
