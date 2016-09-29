@@ -37,6 +37,8 @@ Biased emoji meanings for developers
 - :black_square_button: `:black_square_button:` mirror
 - :credit_card: `:credit_card:` commercial/non-free
 - :wrench: `:wrench:` maintenance
+- :a: `:a:` alpha version
+- :b: `:b:` beta version
 
 ### Areas 
 
