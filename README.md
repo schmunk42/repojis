@@ -9,6 +9,7 @@ Biased emoji meanings for developers
 - :construction: `:construction:` under construction
 - :name_badge: `:name_badge:` namespace/vendor
 - :warning: `:warning:` warning
+- :rotating_light: `:rotating_light:` alert
 - :bulb: `:bulb:` info/heads up
 - :bangbang: `:bangbang:` very important
 
